@@ -24,7 +24,7 @@ desenvolvimento APP Android e IOS
   <li>VSCode</li>
   <li>JSON Viewer</li>
   <li>Test REST</li>
-  <li>Swagger<li/>
+  <li>Swagger</li>
   <li>Firebase</li>
 </ul>
 
