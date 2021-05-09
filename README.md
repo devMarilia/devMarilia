@@ -18,11 +18,14 @@ desenvolvimento APP Android e IOS
   <li>JavaScript</li>
   <li>ReactJs</li>
   <li>ReactNative</li>
+  <li>Nextjs/>
   <li>Git</li>
   <li>GitHub</li>
   <li>VSCode</li>
   <li>JSON Viewer</li>
   <li>Test REST</li>
+  <li>Swagger<li/>
+  <li>Firebase</li>
 </ul>
 
 <img src="https://media4.giphy.com/media/Pm4HpXI62FxF4jfM60/giphy_s.gif" heigh="150" width="150">
