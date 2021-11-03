@@ -15,6 +15,7 @@ desenvolvimento APP Android e IOS
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>SASS</li>
   <li>JavaScript</li>
   <li>ReactJs</li>
   <li>ReactNative</li>
