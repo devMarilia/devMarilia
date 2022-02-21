@@ -9,7 +9,7 @@
 A vida é muito curta para aprender a desenhar decentemente, por isso escolhi a Web!</br>
 Mas vamos para a forma típica de apresentação no mundo da programação rs. Adoro criar produtos incríveis que facilitem a vida das pessoas, atualmente sou desenvolvedora front-end na Avanade Brasil, e estou há mais de 4 anos projetando interfaces do usuário úteis e acessíveis para startups e grandes marcas 
 
-🕵️‍♀️ Curiosidade: Sou  voluntária em fotográfa e realizo mentoria para aqueles que estão iniciando na carreira de desenvolvimento frontend gratítamente. 
+🕵️‍♀️ Curiosidade: Sou  voluntária em fotográfa e realizo mentoria para aqueles que estão iniciando na carreira de desenvolvimento frontend gratuítamente. 
 
 
 <div style="display: inline_block"><br>
