@@ -1,5 +1,4 @@
-
-<h1 align="center">Olá eu sou a  Marilia Augusta, desenvolvedora de sistemas web</h1>
+<h1 align="center">Marília Augusta</h1>
 
 :computer: I'm Front-End Developer!
 
